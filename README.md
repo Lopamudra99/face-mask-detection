@@ -56,9 +56,10 @@ Which is pretty slow comparing with haarcascade classifier.
 </table>
 
 ## Links and References
-- Face Mask Detection dataset: https://www.kaggle.com/andrewmvd/face-mask-detection
+- Face Mask Detection dataset: http://surl.li/bcqqv
+- Face detecter dataset :http://surl.li/bcqrg
 - InceptionV3: https://www.tensorflow.org/api_docs/python/tf/keras/applications/InceptionV3
 - Face Detection using Haar Cascades: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
 - How to Perform Face Detection with Deep Learning: https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 - GitHub MTCNN: https://github.com/ipazc/mtcnn
-
+-
