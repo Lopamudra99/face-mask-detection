@@ -5,7 +5,7 @@ Face masks help reduce the transmission of <a href="https://en.wikipedia.org/wik
 Wearing face mask is one of the precautionary steps an individual can take in order to lessen the spread of <a href="https://en.wikipedia.org/wiki/Coronavirus_disease_2019">COVID-19</a>.
 In this simple project, a video camera detects if an individual is wearing a face mask or not in real-time.
 <br/>The detection steps looks somewhat like this:
-<img src="images/overview.png" />
+<img src="https://github.com/FarhanSadaf/face-mask-detection/raw/master/images/overview.png" />
 
 ## Quickstart the project
 1. Download the code in `ZIP` or open with `GitHub Desktop` or `git clone https://github.com/FarhanSadaf/face-mask-detection.git`. If you face issues downloading weight file, you can download from this <a href="https://drive.google.com/file/d/16B5N0LT5YGlH6MPnmsoF-9ri0MhO3bNv/view">google drive link</a>.
@@ -21,7 +21,7 @@ The classes are:
 - Without mask
 - Mask worn incorrectly
 
-<img src="images/dataset-value-counts.png" />
+<img src="https://github.com/FarhanSadaf/face-mask-detection/raw/master/images/dataset-value-counts.png" />
 
 Though the dataset is pretty imbalanced with most of the data belonging to `With mask` class, it works pertty well detecting `With mask` and `Without mask` classes.
 But more data for `Mask worn incorrectly` class is needed in order to detect this class properly.
@@ -50,8 +50,8 @@ Which is pretty slow comparing with haarcascade classifier.
 <th>Output</th>
 </tr>
 <tr>
-<td><img src="images/test.jpg"/></td>
-<td><img src="images/test-result.png"/></td>
+<td><img src="https://github.com/FarhanSadaf/face-mask-detection/raw/master/images/test.jpg"/></td>
+<td><img src="https://github.com/FarhanSadaf/face-mask-detection/raw/master/images/test-result.png"/></td>
 </tr>
 </table>
 
