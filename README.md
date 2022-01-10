@@ -62,5 +62,3 @@ Which is pretty slow comparing with haarcascade classifier.
 - How to Perform Face Detection with Deep Learning: https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 - GitHub MTCNN: https://github.com/ipazc/mtcnn
 
-## Licensing
-The code in this project is licensed under [MIT License](LICENSE).
